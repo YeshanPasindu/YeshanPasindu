@@ -33,9 +33,9 @@ I'm a **Full Stack Software Engineer** specializing in modern web application de
 
 My main experience includes building enterprise systems using:
 
-- Laravel REST APIs
 - React.js applications
 - Vue.js applications
+- Laravel REST APIs
 - Database-driven business solutions
 - Third-party API integrations
 
@@ -51,34 +51,27 @@ Currently focused on improving my skills in:
 
 # 🚀 What I Build
 
-💼 **Enterprise Applications**
+## 🎨 Frontend Applications
 
-Building business solutions including:
+Building modern and responsive user interfaces with:
 
-- ERP Systems
-- Inventory Management Systems
-- Sales Management Systems
-- Accounting Integrations
+- Interactive Web Applications
+- Responsive UI/UX Designs
+- Data Dashboards & Analytics Views
+- Business Management Systems
+- Component-Based Frontend Architecture
+- API-Driven Frontend Applications
 
+## 🔌 Backend Systems
 
-🔌 **Backend Systems**
+Designing and developing reliable backend solutions with:
 
-Experienced in:
-
-- REST API Development
-- Authentication & Authorization
-- Database Design
-- API Integrations
-
-
-🎨 **Frontend Applications**
-
-Creating:
-
-- Responsive Interfaces
-- Data Dashboards
-- Business Management UIs
-
+- RESTful API Development
+- Authentication & Authorization Systems
+- Database Design & Optimization
+- Third-party API Integrations
+- Business Logic Implementation
+- Scalable Backend Architectures
 
 ---
 
